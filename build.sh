@@ -1,6 +1,6 @@
 #!/bin/bash
 
-image=ljocha/neims
+image=cerit.io/ljocha/neims
 
 case $(basename $0) in
 	build.sh)
